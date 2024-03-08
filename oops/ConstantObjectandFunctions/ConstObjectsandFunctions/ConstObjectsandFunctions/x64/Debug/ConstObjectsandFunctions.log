@@ -1,0 +1,3 @@
+﻿  ConstObjectsandFunctions.cpp
+D:\Electronic Learning Source\C++\oops\ConstantObjectandFunctions\ConstObjectsandFunctions\ConstObjectsandFunctions\ConstObjectsandFunctions.cpp(48,18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  ConstObjectsandFunctions.vcxproj -> D:\Electronic Learning Source\C++\oops\ConstantObjectandFunctions\ConstObjectsandFunctions\x64\Debug\ConstObjectsandFunctions.exe

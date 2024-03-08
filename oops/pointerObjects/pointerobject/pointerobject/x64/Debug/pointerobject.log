@@ -1,0 +1,3 @@
+﻿  pointerobject.cpp
+D:\Electronic Learning Source\C++\oops\pointerObjects\pointerobject\pointerobject\pointerobject.cpp(69,18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  pointerobject.vcxproj -> D:\Electronic Learning Source\C++\oops\pointerObjects\pointerobject\x64\Debug\pointerobject.exe
